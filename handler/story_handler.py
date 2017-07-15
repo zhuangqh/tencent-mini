@@ -11,7 +11,7 @@ class StoryHandler(BaseHandler):
 
         content = body["content"]
         song_id = body["song_id"]
-        longitude = body["longtitude"]
+        longitude = body["longitude"]
         latitude = body["latitude"]
         user_id = body["user_id"]
 
